@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+
+.Box{
+    height: 700px;
+    width: 400px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.Buttons{
+    background-color: gray;
+    color: gray;
+}
