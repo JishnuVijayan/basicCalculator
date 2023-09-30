@@ -23,6 +23,11 @@ padding-left: 9px;
 height:110px;
 background-color: #000000;
 border-radius: 10px;
+text-align: end;
+font-size: 20px;
+color: "#ffffff";
+position: relative;
+
 }
 
 .hr {
